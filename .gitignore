@@ -209,3 +209,5 @@ __marimo__/
 # Project data
 data/
 *.csv
+*.docx
+backup/
