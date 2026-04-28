@@ -211,3 +211,5 @@ data/
 *.csv
 *.docx
 backup/
+report_images/
+final_report.md
